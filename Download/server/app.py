@@ -1,0 +1,1 @@
+# Flask app with Socket.IO and user features (placeholder)
